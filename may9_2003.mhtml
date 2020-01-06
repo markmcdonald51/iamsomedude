@@ -1,0 +1,656 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://iamsomedude.com/elvick/03_transcripts/may9_2003.html
+Subject: 
+Date: Fri, 9 Aug 2018 05:57:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--99cVCoh4Wg44wAQCdoa3mANlkjaXklfbo3o7wJjpHB----"
+
+
+------MultipartBoundary--99cVCoh4Wg44wAQCdoa3mANlkjaXklfbo3o7wJjpHB----
+Content-Type: text/html
+Content-ID: <frame-B06B44E01EC45741413BB57F1E486718@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://iamsomedude.com/elvick/03_transcripts/may9_2003.html
+
+<html class=3D"gr__iamsomedude_com"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3Dwindows-1252"><style type=3D"text/css">.ba=
+ckpack.dropzone {
+  font-family: 'SF UI Display', 'Segoe UI';
+  font-size: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 150px;
+  font-weight: lighter;
+  color: white;
+  will-change: right;
+  z-index: 2147483647;
+  bottom: 20%;
+  background: #333;
+  position: fixed;
+  user-select: none;
+  transition: left .5s, right .5s;
+  right: 0px; }
+  .backpack.dropzone .animation {
+    height: 80px;
+    width: 250px;
+    background: url("chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/as=
+sets/backpack/dropzone/hoverstate.png") left center; }
+  .backpack.dropzone .title::before {
+    content: 'Save to'; }
+  .backpack.dropzone.closed {
+    right: -250px; }
+  .backpack.dropzone.hover .animation {
+    animation: sxt-play-anim-hover 0.91s steps(21);
+    animation-fill-mode: forwards;
+    background: url("chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/as=
+sets/backpack/dropzone/hoverstate.png") left center; }
+
+@keyframes sxt-play-anim-hover {
+  from {
+    background-position: 0px; }
+  to {
+    background-position: -5250px; } }
+  .backpack.dropzone.saving .title::before {
+    content: 'Saving to'; }
+  .backpack.dropzone.saving .animation {
+    background: url("chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/as=
+sets/backpack/dropzone/saving_loop.png") left center;
+    animation: sxt-play-anim-saving steps(59) 2.46s infinite; }
+
+@keyframes sxt-play-anim-saving {
+  100% {
+    background-position: -14750px; } }
+  .backpack.dropzone.saved .title::before {
+    content: 'Saved to'; }
+  .backpack.dropzone.saved .animation {
+    background: url("chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/as=
+sets/backpack/dropzone/saved.png") left center;
+    animation: sxt-play-anim-saved steps(20) 0.83s forwards; }
+
+@keyframes sxt-play-anim-saved {
+  100% {
+    background-position: -5000px; } }
+</style></head><body data-gr-c-s-loaded=3D"true" class=3D" hasGoogleVoiceEx=
+t">
+
+<br><br>
+
+<center>
+
+<table width=3D"800">
+<caption><font face=3D"verdana"><b>May 9, 2003</b><br><br></font></caption>
+
+<tbody><tr>
+<td><font face=3D"verdana">
+<b>Summary Judgment  (necessity)</b><br><br>
+
+**	Good morning!  We=92ve got some information back from a tort claim that =
+I=92d like to run by you.   From what I understand is that he went to court=
+ and did the Surety Bond and Show Cause why a Tort Claim should not issue. =
+   Let me read what he got from the OFFICE OF THE ATTORNEY GENERAL, STATE O=
+F INDIANA.<br><br>  It reads:  This letter is to inform you that we receive=
+d the Tort Claim you submitted.  We will be collecting information and docu=
+mentation necessary to make a determination with respect to your claim.  If=
+ you have additional material you feel should be considered in our review, =
+please mail it to our attention and mention the File Number noted above.<br=
+><br>
+   Pursuant to Indiana Code 34-13-3-11, we will notify you in writing, with=
+in 90 days, if the State approves your claim.  A claim is deemed denied if =
+not approved in its entirety within 90 days, unless the parties have reache=
+d a settlement before the expiration of that period.  If your claim is deni=
+ed, you have two years from the date of loss in which to file a lawsuit to =
+have your claim heard in court.  If your claim is approved, we will mail yo=
+u a check for the agreed-upon settlement amount.<br><br>
+   If you have any questions in the interim, please refer to OUR FILE NUMBE=
+R in your letter. <br><br>=20
+Then it was ended without a signature but said:  Sincerely, Office of the A=
+ttorney General, Tort Claim Investigations.<br><br>
+    Where I see they try to have a loop hole in there when they say it has =
+to be approved in its =91entirety=92.  <br><br>
+R:	Well that=92s okay.  Because you see if we get the denial, okay that=92s=
+ the negative so then at that point whoever signs that denial we can go and=
+ pay the filing fee and commence action against them in a state court.  <br=
+><br>
+**	Okay, because I=92m wondering if he sent this in to the federal.  I=92m =
+pretty sure I gave him the address but he isn=92t sure he mailed it in or j=
+ust filed it with the court papers.  <br><br>
+R:	What I=92m saying is when we get the denial, the denial is the order for=
+ the warrant.  At that point we commence action and we order whoever signed=
+ the denial appear with a subpoena duces tecum (Lat. Bring with you)  The n=
+ame of certain species of writs, of which the subpoena duces tecum is the m=
+ost usual, requiring a party who is summoned to appear in court to bring wi=
+th him some document, piece of evidence, or other thing to be used or inspe=
+cted by the court.) at the court.  The duces tecum means with the check.   =
+See we can notice these judges because what we=92re going to do now is we=
+=92re going to start suing every Municipality that these courts have passed=
+ through.  I think the way these things are being set up around these Metro=
+ areas.  All these Metro areas are surrounded by all of these municipalitie=
+s.<br><br>
+**	Right I=92m noticing all the police cars have now got this big square an=
+d an M in the middle for metro.   Use to say, =93To protect and to serve=94=
+.<br><br> =20
+R:	Well you see what we=92re going to do is we=92re going to sue each munic=
+ipality that has anything=85  See tell everyone to keep their envelopes so =
+we can see where the bill of exchange is passed through.  Okay?  And you se=
+e we=92re going to accuse the corporations of the misconduct see in allowin=
+g these hoodlums to use their facilities.  We=92re going to sue them as a p=
+erson.<br><br>
+**	Terrific!  Sue the municipality.<br><br>
+R:	Because they have allowed the commercial instrument to pass through them=
+.  They are now a sexual predator.  See the passing through of that changes=
+ the gender of the commercial instrument and thereby libels them for the ex=
+change.   Then you see they go from one to another to try to escape the pap=
+er trail and try to make the paper trail so cumbersome so we=92re not follo=
+wing them by paper any more we=92re following them electronically.<br><br> =
+=20
+**	So us keeping the envelopes and that will tell us=85<br><br>
+R:	Shows the evidence that that municipality is liable.  Then you see you l=
+iable them with an affidavit.  <br><br>
+**	Oh the affidavit in truth, sworn under oath to be true, correct and comp=
+lete.  <br><br>
+R:	Right=85 so when we sue them we actually go pay the filing fee with your=
+ cash money or whatever and when you do that you also list that as one of t=
+heir liabilities in the action itself.  Earmark the filing fee and sue them=
+ directly for it.  So when they appear at the court they=92re going to have=
+ to have a check for that. <br><br>=20
+**	So you=92d be suing Los Angeles Municipalities as a person.  Okay.<br><b=
+r>
+R:	Let=92s say you=92re living in some other fringe suburb, you see, which =
+is also a municipality of it=92s own, you sue them too.   Everything that p=
+asses through!  You have an envelope=85.see the city of Los Angeles is resp=
+onsible in some manner because of the zip codes are under Los Angeles=85 we=
+ll no maybe not.   Anyway what I=92m saying is postal and then again it doe=
+sn=92t have to be a postal seal either because if that=85 lets say the pros=
+ecutor resides in another municipality other then where the court action is=
+ filed.  You list that municipality too=85because he lives there.  <br><br>
+**	We=92re basically doing this based on them failing to prevent this from =
+happening?<br><br>
+R:	Yes!  So what they are, is they have become the instigators and they=92v=
+e become a sexual predator for the purpose of reaping the benefits of victi=
+ms of dismissed conduct.   You see if we sue them what they=92ve got to do =
+is they=92ve got to set aside the amount of the law suit in reserves.  So t=
+hat means that they have to answer to the federal reserve for that amount o=
+f money right there on the spot.  And what we=92ll do is we=92ll just serve=
+ some official from the municipality---maybe the Mayor.  We don=92t have to=
+ hunt down the risk management.  We=92ll just subpoena him duces tecum to s=
+how up at the court with that documentation or better yet with the check.  =
+ Because you see when they issue this denial, the denial is an order of the=
+ court=85<br><br>
+**	Okay!<br><br>
+R:	It=92s the warrant that=92s looking for the order so that=92s why we=92l=
+l take that denial if we have to and deposit it in the bank and then we=92l=
+l summon the banker to appear duces tecum with the warrant that corresponds=
+ with that order.=97and that=92s the check.<br><br>
+**	Well that doesn=92t seem too complicated.  <br><br>
+R:	Yeah!  You see if we deposit it and summon the banker or we can commence=
+ action against the municipality and order the Mayor to show up duces tecum=
+.  In other words he=92s got to appear at the court with his body and the d=
+ocument that=92s requested.   The document is the warrant that corresponds =
+with that order.  <br><br>
+**	It=92s back to the order looking for the warrant.  Makes sense.   I have=
+n=92t got the envelopes quite clear but I think the court process sounds ri=
+ght.<br><br>
+R:	The envelope contains a bill of exchange.  They=92re identifying the mun=
+icipality under which its being charged the exchange.<br><br>
+**	So it=92s the address or the post mark?<br><br>
+R:	The post mark.
+**	Ohhh=85 the meter that cancels the stamp.<br><br>
+R:	They identify the municipality that they are charging the postage to. <b=
+r><br>=20
+**	I=92ll have to start looking at them again.   Sometimes the ink gets so =
+faint or it=92s over the stamp and you can=92t really read it.<br><br>
+R:	Those are meters.  So what you want to do is throw it into a mail box ag=
+ain and let the post office send it again.  See that=92s what we use to do =
+with some of these lawyers that were trying to set us up with a court date =
+that=92s already gone by.   What they would do=85 sometimes they would even=
+ put zero zero postage on it.    Whenever we=92d get these though we=92d ju=
+st go sling them into a mail box and then the post master would cancel thos=
+e.  <br><br>
+**	They are so corrupt.  County Council use to do that to me and when I=92d=
+ complain to the court administrator they would all act like I was the one =
+that made the mistakes.  I even took the envelopes in there and they tried =
+to blame it on the post office.   Just thinking of those corrupt tyrants st=
+ill makes me angry and that=92s when those bastards get the edge because no=
+thing is at stake for them.<br><br>
+R:	Yeah!  Yeah!  We use to have to throw the mailings from the attorney=92s=
+ or courts back into a regular mailbox  quite often.<br><br>
+**	You think that this court action is going to solve things or be more ben=
+eficial then the involuntary bankruptcy?<br><br>
+R:	I don=92t know.  The bankruptcy to make it effective you got so darn muc=
+h stuff to do I think I=92d go this route first.   See because I=92ve got s=
+ome bankruptcies that are filed and look pretty good but it=92s too much wo=
+rk.<br><br>
+**	Oh poop!  I was hoping that they would be a little easier then to go thr=
+ough all these different motions and stuff=85 UGH!<br><br>
+R:	No see what you do is you bring a complaint against them.  You bring the=
+ complaint and you issue the Summary Judgment and hook it right in with the=
+ complaint and it all goes in with an affidavit and we just simply let them=
+ know then that they=92re sued and they are required to provide this remedy=
+ and in the event they employ a judge to issue the denial or refusal or dis=
+missal, okay then we take that dismissal then and call for a hearing becaus=
+e they=92re in default.  <br><br>
+**	Usually the response to that is always a demur if it=92s state or a 12B6=
+ if it=92s federal.<br><br>
+R:	Yeah well okay that=92s the admission to the order.  Now it=92s a subpoe=
+na duces tecum to appear at the court or show cause why they shouldn=92t be=
+ held in contempt.  <br><br>
+**	Oh=85 okay.  I might have to something like that for this guy on doing a=
+ motion to dismiss when they don=92t have a claim in fact=85 an empty claim=
+ and enclose a Surety Bond with it.  That=92s kind of some strategy I was t=
+hinking.<br><br>
+R:	Well you see we get to where we actually pay the filing fee in the state=
+ court.  But you=92ve got to account for the filing fee in the complaint.<b=
+r><br>
+**	Okay like on E* because she never did pay the filing fee except with her=
+ private account check.  You think she should start a new action and pay th=
+e filing fee?<br><br>
+R:	Sure!  But then list that fee as one of the damages in the actual compla=
+int.  Put that in specifically as one of the separate items that adds up to=
+ the sum total, because the sum total is the summary judgment=85.  That=92s=
+  Sum Mary!   (Chuckling)<br><br>
+**	Oh I was going to say, =93That=92s some Total=94.  (Chuckling)  E* did a=
+ little letter to this Loanstar Mortgage.   You know how they fragmented ev=
+erything and have about 4 or 5 different lenders.  Well she wrote and told =
+them her records indicate no debt owing, however if they are claiming a deb=
+t provide the assessment.  Then she pretty much sent them the information r=
+egarding all the stuff from Wells Fargo showing payment in full and telling=
+ this company who is another part of Wells Fargo, I think it is 1st America=
+n Title Co.  Anyway she is authorizing them to go ahead and pay the claim.<=
+br><br>
+R:	Now if she names the municipality and in the complaint, and you can serv=
+e those papers on any officer in the municipality and you see I think we ne=
+ed to nail a couple of the municipalities that surround the metro but also =
+name the metro.  Because what it does is it ties up a certain amount of the=
+ir funding.  They have to set it aside regardless of what happens.  If ther=
+e is potential liability out there and until they settle it they have to se=
+t it aside as a reserve=85. And that=92s the Federal Reserve!  That=92s our=
+ accounts. <br><br>=20
+**	Wow!  I didn=92t realize they had to set funds aside.<br><br>
+R:	Yeah they do.  <br><br>
+**	So if they get a lot of law suits that=92s going to put a stress on the =
+funds.<br><br>
+R:	Yep!  Yep! Yep!  They can=92t pass through all this bs money--- they hav=
+e to answer to the principals.  But you see the problem that we=92ll have i=
+s then to force these people into a position to where they have to pay up a=
+nd you see once we=92ve got them where they=92ve done the denial=85<br><br>
+**	Yeah=85<br><br>
+R:	That=92s the order for the warrant!  That=92s a money order!  That=92s a=
+ court order!  Now we take the court order and we enter that into court and=
+ we notify either the banker or probably the Mayor of the City to appear su=
+bpoena duces tecum with the warrant.  =96 the corresponding warrant that co=
+rresponds with this municipality because those are mutual funds.  Mutual fu=
+nds means that we have a mutual agreement Buddy and that=92s what the Bill =
+of Exchange is all about.  <br><br>
+**	Getting it!<br><br>
+R:	Okay!  So you see you=92re going to have to have the filing fees paid to=
+ get the state jurisdiction involved to where now we have the order for the=
+ warrant but we want them to issue their warrant.  Which means---it=92s a c=
+heck!  A check is a warrant.  Because the state is defacto and so now we wa=
+nt the defacto warrant. <br><br>=20
+**	Isn=92t that putting us in the position that we=92re recognizing or defe=
+ating HJR-192?... and we=92re taking it back and forth at our convenience?<=
+br><br>
+R:	Yeah!  Right!  I=92ve always said that we own both sides of that account=
+.<br><br>
+**	Right!  That=92s true.<br><br>
+R:	The thing is, whoever is the holder-in-due course, we want the instrumen=
+ts to be placed in the bank.  That is still one of our employees.  We don=
+=92t handle the money they do.<br><br>
+**	That=92s right we have fiduciary debtor and fiduciary creditor on our be=
+half so we are insulated from the charges.<br><br>
+R:	That=92s what we want.  We want the check that can be deposited in my ac=
+count so my banker can pay my bills now when I send them in or when I send =
+a check in.  Because people have gotten themselves to the idea, =93Well I=
+=92ve created the money and I=92m handling the money and I=92m this and I=
+=92m that.=94   Nope that=92s what kills ya!  It=92s all your employees tha=
+t are doing that. <br><br>=20
+**	Right!  Okay.<br><br>
+R:	As a matter of fact there is no difference between a debit and a credit =
+because the definition of a proton is simple the absence of the electron.  =
+ So you see the proton is a mental idea or arbitrary atomic weight that has=
+ to be agreed because it=92s weightless in the state and until the fall of =
+man, until man falls to the earth cause he=92s subject to gravity they can=
+=92t identify it there.  But see that=92s what they=92re doing.  When that =
+judge issues that electron, we=92re stating, =93Bring the proton to the cou=
+rt that corresponds with this electron because you guys are working in the =
+inner office.=94  =85 that=92s insider trading.  <br><br>
+**	Wow!  That sort of clears up the path=85  I was really hoping to stay ou=
+t of court but I think with the way you just described that it seems like i=
+t isn=92t going to go into a big bunch of circles and arguments. <br><br>=
+=20
+R:	Yes just do that summary judgment and attach it right to the back of the=
+ complaint and then put it in with an affidavit.  Now you see they can=92t =
+escape that unless they have another affidavit that has to deal with the ac=
+tual liability.<br><br>
+**	So it would just be the complaint, summary judgment and the affidavit?<b=
+r><br>
+R:	The complaint goes through and puts the prayer for relief in and bla bla=
+ blah for damages and then the rest of the papers can be the notice for the=
+ move for summary judgment.   You can move for Summary Judgment on any case=
+ at any time.   You=92re just summing up everything as the facts are right =
+here and now and now you=92re putting an affidavit in stating this is where=
+ the facts are.<br><br>
+**	Hopefully it will be a one time or two at the most slam dunk?!<br><br>
+R:	Oh yeah!  See now the only way that they can get rid of the judgment is =
+to oppose it with an affidavit of their own.  The affidavit of their own is=
+ going to have to deal with the liability.  They can=92t deal with irreleva=
+nt facts and just call it simply an affidavit and we fulfilled a procedure.=
+  Cause you could state that right in your complaint that any opposition to=
+ the summary judgment rendered and what=92s sworn to by affidavit=85<br><br=
+>
+**	They have to make sure it is true, correct, and complete and most of the=
+ attorney=92s don=92t have first hand knowledge. <br><br>
+R:	Right and what you can do in the complaint is simply state that the oppo=
+sing affidavit must deal with the liability and secondary evidence is only =
+admission to the liability and will be held by this court as a contempt.   =
+If the opposition fails to address the issue in fact!  But you see the issu=
+e in fact, the only way they can address it is to provide the court with a =
+settlement=97and you spell out what the settlement is or show cause why the=
+ Mayor of XYZ City should not appear duces tecum with the warrant correspon=
+ding to the order.  <br><br>
+**	Like this little letter with the tort information.  It says:  You have 2=
+ years to sue if your tort claim is denied to have a hearing in a court=85 =
+<br><br>
+R:	Okay well he can do that immediately.  <br><br>
+**	He=92s scheduled to go to court in August so they=92re waiting to see wh=
+at goes with the tort claim=85 that would be 90 days so they=92re already t=
+hinking it=92s going to be denied.<br><br>
+R:	Well you see anything less then immediate settlement you see is still a =
+refusal and that is the element that he could move on right now.  Any delay=
+ of the 90 days is the negative order that we now move for the subpoena duc=
+es tecum just pick the party which could be a municipal mayor or officer.  =
+The Mayor or his agent is going to have to appear.  An authorized agent of =
+the municipality.   That Mayor doesn=92t want to leave his daily affairs ju=
+st to go down to one of these but if his name is on this subpoena, he=92d l=
+ike to appoint someone, but if his name is on that subpoena personally and =
+he=92s to personally appear with the document they=92re going to offer sett=
+lement before that.<br><br>
+**	Have you heard anything from R* the lady with the herbs for pets?<br><br=
+>
+R:	I talked to her several days ago.<br><br>
+**	Oh no she went to court and I usually hear from her when she goes to cou=
+rt or something happens and I haven=92t heard.   I have a feeling that they=
+ nabbed her.<br><br>
+R:	Ohhh!  You think so?<br><br>
+**	They were moving on her pretty aggressive and had publicized some pretty=
+ rough news on tv and newspapers about her.<br><br>
+R:	She was going to contact you she said.<br><br>
+**	Yes I did send her some stuff but I don=92t know whether she was able to=
+ do much with it if her hearing was the following morning.  I=92ll just hav=
+e to hold off but this what you=92re telling me now is going to be very hel=
+pful.<br><br>
+R:	Well the next time she appears we=92ll be able to give her better organi=
+zed stuff.  The guys in Canada are putting together a war chest and they=92=
+re going after some of these officials and I think this one guy=92s mother =
+is putting together some documents that they won=92t be able to escape his =
+mother.<br><br> =20
+**	Somebody put together this paper and I think they did a really good job.=
+  I don=92t know who did it but in reading it I think it is pretty much in =
+line with your concepts.   Now this guy that got the letter regarding the t=
+ort apparently thought he was facing about 4 years in prison and he said a =
+friend did it and his wife faxed it to the jail.  It did reduce the bail fr=
+om $10,000 to $1,000 and his trial is still going on schedule.    (THIS IS =
+ATTACHED OR TITLED =91ANONYMOUS=92 )<br><br>
+R:	Yeah that sounds good.   If you want to share it by sending it to J*C*. =
+ See we just got another guy out and his wife called and asked if it was ok=
+ay that he wears the bracelet.  I said, =93Sure=94  See we=92re going to st=
+art binding them to the agreements.  Anything that can get them out to what=
+ he agrees to.   So he agrees to take the bracelet, well then they didn=92t=
+ put any of these other conditions on him, he just stays within these geogr=
+aphical areas of what that bracelet allows.  Okay=85 what we=92re going to =
+do then is we=92re going to move against the cities and the metros and do i=
+t this way.  Commence the action, pay the fees, list the fees in the compla=
+int that they have to pay up so that we can get the state then to give us a=
+ compelling duces tecum to make the banker appear at the court with the cor=
+responding warrant in exchange for that bracelet.  That=92ll be the value.<=
+br><br>
+**	Yeah they=92re holding him for a value.  <br><br>
+R:	Right!  That=92s what we=92ll do.  We=92ll exchange it for the bracelet.=
+  So that=92s why I told him to just go ahead and get out and you=92ll have=
+ time to prepare this stuff.  That=92s really the basis for that decision. =
+  The bracelet is golden.  Why?  Because it=92s based on paper gold or IMF.=
+<br><br>
+**	Oh the paper contract gold=85 pure gold.<br><br>
+R:	That=92s the only way you can get pure gold, the other is fine gold=85. =
+  And that=92s where the fines come from.<br><br>
+**	I love that.  It makes so much sense.   I talked to someone else last ni=
+ght and we=92re all going to start calling the Homeland Security and start =
+getting these people to start answering us.  First we have to get everythin=
+g resolved with E* house.  That would be a shame if anyone looses their hou=
+ses when we=92ve worked at this so much.  <br><br>
+R:	Well I think she can do what we just talked about.   She can list the mu=
+nicipalities and make them liable joint and several.  <br><br>
+**	You know around here in this big ole metropolis it is harder to find wha=
+t area the judge lives in.  They are so protected.<br><br>
+R:	That=92s okay, than just list that one municipality.  But what I=92m say=
+ing is that some of these judges will travel from one jurisdiction to anoth=
+er.<br><br>=09
+**	Oh I know they do in the federal but I=92m not sure with the state.<br><=
+br>
+R:	You nail them because the commercial instrument has passed through and t=
+hey have allowed these hoodlums to pass and when they do that they have bec=
+ome a sexual predator.  These hoodlums that are passing are carrying contra=
+band and the state has failed to stop them at the border.   See what we=92r=
+e doing, is we=92re going to order them to appear subpoena duces tecum.  Ap=
+pear at court with their authorization or with the warrant=85 the warrant t=
+hat corresponds with the order.  <br><br>
+**	Now if you do that as the summary judgment that would be part of them to=
+ appear if they don=92t settle, right?<br><br>
+R:	In the event they fail to volunteer it.   In the event they fail to make=
+ settlement.---immediately.  Then you see the moving party will make a date=
+ for them to appear because you=92ll go in and you apply for a subpoena duc=
+es tecum you=92ll have it all prepared and the clerk stamps them.  Bang!...=
+ they=92re in.  But you see those will be accompanied with affidavits.  <br=
+><br>
+**	Right and they=92d have to dispute the affidavits.<br><br>
+R:	Right=85 Yes and see they=92re going to have to appear with the instrume=
+nt under which the subpoena requires.  In other words they are to show up w=
+ith the warrant.   The corresponding warrant that corresponds with the cour=
+t order or the order or the request or claim, from the employee or who has =
+traveled through the municipality.  In other words, we=92ll summon the Mayo=
+r.    Tell him why.  Tell him you and your corporation engaged in predatory=
+ practices and stalking.  They=92re trading stock in the stock market.  Why=
+?  Because they=92re trading in mutual funds.<br><br> =20
+**	Mutual funds=85 municipality.  Makes sense.<br><br>
+R:	So that=92s how E* can hit them between the eyes.  She=92s got an action=
+ open right now?<br><br>
+**	Well they=92ve already ruled on it and of course they ruled it a default=
+ because they never acknowledged her being there because of the private che=
+ck.    So what they=92ve done is they=92ve reinstated the note.   However t=
+hey are trying to also collect legal fees.  What I think is going to be int=
+eresting is all the paperwork in their records has been accepted by her and=
+ they don=92t have any new signatures unless they attach that judges decisi=
+on order to the documents<br><br>
+R:	Okay well that=92s why she has to now tell them that she=92s bringing th=
+e action by the subpoena.  They=92re going to have to appear with the corre=
+sponding warrant because that=92s what=92s missing and that=92s what they=
+=92re telling her.<br><br> =20
+**	She could be the one now starting a new action and be the plaintive.<br>=
+<br>
+R:	Yes!  She can pay the filing fee.   Just commence the action but make su=
+re you put the filing fee as one of the damages because you haven=92t got a=
+ny better evidence then the Clerk of Court giving you a receipt for that fi=
+ling fee.  <br><br>
+**	Right!  Okay.   And just add that in to all of that other stuff.  <br><b=
+r>
+R:	Yes!  Make sure that it=92s there and that that person is going to be re=
+sponsible because the clerk can actually be called as a witness during the =
+court proceedings if they really want to get cute.   If you run into someth=
+ing unexpected in there and they start to roll over you then just call the =
+clerk to bring into evidence the liability of the filing fee.  <br><br>
+**	Well then what they=92ll be doing is basically hanging the judge.<br><br=
+>
+R:	Right! And the judge isn=92t going to allow that to go.  He=92ll have to=
+ order the clerk of court to write the check then if there isn=92t anybody =
+else available.  I=92ve had that happen to me.   When I had a bonded action=
+ one time I had going I had to pay my bail bond but I prevailed in the case=
+ but before I left, you see, even before we finished that day, I said, =93N=
+ow I=92ve complied with the bond requirements on appearance so I want the o=
+rder and the record for the clerk to return my surety bond.=94  They made t=
+hat note and 3 or 4 days after I got home I had the check in the mail and i=
+t was drawn on that court and signed by the Clerk of Court.  <br><br>
+**	Wow!  You know on that little letter that I just read you that I=92m goi=
+ng to be sharing?...
+How should that be signed or do you think it needs a signature?<br><br>
+R:	Like we always do it=85<br><br>
+**	Well it=92s kind of from someone like a second witness or an outsider.  =
+How about anonymous?<br><br>
+R:	You might do that or if it=92s a husband or wife they can be the authori=
+zed representative.  They have a marriage contract.   Oh yeah you bet a hus=
+band and wife can act on power of attorney, attorney in fact any of it and =
+the courts recognize it.  <br><br>
+**	Good.  Okay.  Then I think maybe some samples of how to write up court p=
+apers.  That=92s usually another big block we all have because of the court=
+=92s way of procedures.<br><br>
+R:	Well you know it=92s very simple.  I think you can get the forms even ou=
+t of the books, like you=92ve got a jurisdiction statement, or you=92ve got=
+ to show the parties the jurisdiction statement and a statement of the fact=
+s.  I think there is a format that those courts probably post.  <br><br>
+**	They use to but now with the internet maybe some of that stuff can be fo=
+und on line it=92s just what all papers are required for the courts to acce=
+pt the papers.   I know you know B*T* and he knows procedure and he takes e=
+verything out of title 28 of Federal Rules of Civil Procedures and he sets =
+the court up as his court.  He has like 5 things you have to watch for or d=
+o.  I can=92t remember now all the stuff but I=92ll be putting some of that=
+ on my web page.  <br><br>
+R:	Okay!  Well I know that California courts, they=92ve got the forms right=
+ in the book at the end of each chapter.  <br><br>
+**	Yeah I think you=92re right.  I know we use to get them out of the law l=
+ibrary and pretty much use the formats and then of course add what we wante=
+d to.  Many times they give you the court sites of why you file that partic=
+ular pleading.  UGH!  I think there are also Matthew Bender books on proced=
+ure.<br><br>
+R:	Well I=92m talking about the state courts.  They have books that you can=
+ just fill in the forms or get the language right out of the books.  They a=
+re the local rules of court for your area.<br><br>
+**	Yeah well those little books cost somewhere in the neighborhood of about=
+ 80 or 90 bucks, for their private corporation to sock it to you and you ha=
+ve to learn how to use their weapons!  GROAN!<br><br>
+R:	Well I think you can set up an account with them and then send them a pr=
+ivate check.  I=92ve done that before.   Those books though would have the =
+forms for about every use that you would need they would have that in it.<b=
+r><br>
+**	I=92ll check with a couple of friends and see what we can come up with.<=
+br><br>
+R:	See I think some of those legal bookstores are hooked up with West Publi=
+shing.  Okay now West Publishing goes under another name called West Group =
+now.<br><br>
+**	Okay.  I=92ll see what I can come up with.   This is a good heads up for=
+ what we may have to end up doing.  I know I use to think that you just sub=
+mit this information to the court and the bank or whoever would have to ans=
+wer you but it ends up the bank and the judge are both on the same side.  I=
+ went to court so much when I was fighting to keep my house.  It becomes so=
+ long and drug out and it=92s almost like playing chess or some strategy ga=
+me but they have the edge and they don=92t give you a handicap.<br><br>
+R:	Well this should back them up and bring it to conclusion fairly fast.   =
+They=92re going to have to bring the warrant for the order.  If they have t=
+he information in their possession that is required for the order tell them=
+, =93 you either hand it over to me or you are going to appear with me.  An=
+d if you fail to appear with me then I=92m going to ask the judge for an ar=
+rest warrant=85for you!=94  That=92s what the subpoena duces tecum does.<br=
+><br> =20
+**	Right.  If we=92ve accepted it then it belongs to us.  We=92re the debto=
+r in possession and he=92s the delinquent creditor.<br><br>
+R:	Now you need to go in and tell them the fellow that has the information =
+that you requested has refused to appear and I want a warrant to issue for =
+his arrest.  Because the warrant then is yours.  The judge is going to hold=
+ it for you but the warrant means that as soon as he=92s in custody you get=
+ the proceeds.  <br><br>
+**	So for example the warrant would come from the banker=85.<br><br>
+R:	Yep!... the bank of first deposit.  That=92s the bank where they deposit=
+ed the check.<br><br>
+**	Right the merchant or whoever you gave the check to.<br><br>
+R:	Right.  It can=92t come from the private account because they never beco=
+me involved.  That=92s covered by the privacy act.  Nobody=92s business.  I=
+t only accesses electronically and it=92s none of their business what happe=
+ns on the other end of that electronic.   The thing is the bank of first de=
+posit is the one that=92s accountable and somebody in that organization is =
+going to appear with the duces tecum with the document or they=92re going t=
+o be arrested so the court can issue the warrant.  They=92re going to issue=
+ the warrant which means they=92ll give you the check=85   Place it in your=
+ bank and now the bank will be holding them as their prisoners so that you =
+can go ahead and pay your bills. <br><br>
+**	All right!  I=92ll internalize this and see where it takes me.<br><br>
+R:	Okay!  Here is the other thing that you can include in your statement is=
+ that the bank or under that subpoena duces tecum=85  that person who is to=
+ bring that information is to identify the ghost account that matches the o=
+utstanding claim that=92s the cause of the action.  He=92s going to have to=
+ identify the ghost account or bring that information forward.<br><br>
+**	Wow that=92s really helpful.  That ghost account is going to be very rev=
+ealing.  That would have to be from the one that didn=92t charge the claim.=
+<br><br>
+R:	Yes!<br><br>
+**	Okay=85  Thank you!  Thank you! =20
+</font></td>
+</tr>
+</tbody></table>
+<br><br>
+<table>
+<tbody><tr>
+<td align=3D"center"><a href=3D"http://iamsomedude.com/elvick.html"><font f=
+ace=3D"verdana">Click here to go back</font></a></td>
+</tr>
+<tr>
+<td><br><br></td>
+</tr>
+<tr>
+<td align=3D"center"><a rel=3D"license" href=3D"http://creativecommons.org/=
+licenses/by-nc-sa/4.0/"><img alt=3D"Creative Commons License" style=3D"bord=
+er-width:0" src=3D"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png">=
+</a><br>All works herein are licensed under a <a rel=3D"license" href=3D"ht=
+tp://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributi=
+on-NonCommercial-ShareAlike 4.0 International License</a>.</td>
+</tr>
+</tbody></table>
+</center>
+
+
+
+</body></html>
+------MultipartBoundary--99cVCoh4Wg44wAQCdoa3mANlkjaXklfbo3o7wJjpHB----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+
+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
+RU5ErkJggg==
+
+------MultipartBoundary--99cVCoh4Wg44wAQCdoa3mANlkjaXklfbo3o7wJjpHB------
